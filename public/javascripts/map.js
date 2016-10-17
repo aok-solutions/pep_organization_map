@@ -8,16 +8,17 @@ AmCharts.makeChart('org-map', {
         rollOverScale: 3,
         selectedScale: 3,
         selectedColor: "#089282",
-        color: "#13564e"
+        color: "#13564e",
+        "autoZoom": true
     },
     "dataProvider": {
         "map": "usa2Low",
-        "getAreasFromMap": true,
         "images": [
             {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Union of Electricians (3)- Chicago",
+                "zoomLevel": 5,
                 "latitude": 41.878114,
                 "longitude": -87.629798
             },
@@ -32,6 +33,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "350.org (1)-Washington, DC Idalin",
+                "zoomLevel": 5,
                 "latitude": 38.907192,
                 "longitude": -77.036871
             },
@@ -46,6 +48,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "National Domestic Worker's Alliance (1)- New York City, Claudia and Felipe",
+                "zoomLevel": 5,
                 "latitude": 40.712784,
                 "longitude": -74.005941
             },
@@ -53,6 +56,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Affirm National (1)- LA Claudia",
+                "zoomLevel": 5,
                 "latitude": 34.052234,
                 "longitude": -118.243685
             },
@@ -60,6 +64,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Intereligious Foundation Community Organization  International (1)- New York City Claudia",
+                "zoomLevel": 5,
                 "latitude": 40.712784,
                 "longitude": -74.005941
             },
@@ -67,6 +72,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "PICO Network (1)- Washington, DC  Rahiel",
+                "zoomLevel": 5,
                 "latitude": 38.907192,
                 "longitude": -77.036871
             },
@@ -74,6 +80,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "NAACP Legal Defense Fund (1)- Washington, DC Rahiel",
+                "zoomLevel": 5,
                 "latitude": 38.907192,
                 "longitude": -77.036871
             },
@@ -81,6 +88,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Student Farmworker Association (2)- Immokalee, FL",
+                "zoomLevel": 5,
                 "latitude": 26.418525,
                 "longitude": -81.417406
             },
@@ -95,6 +103,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Code Pink (1)-Venice, CA",
+                "zoomLevel": 5,
                 "latitude": 33.985047,
                 "longitude": -118.469483
             },
@@ -116,6 +125,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Students for Justice in Palestine (1)- Kevin- Know the NY chapter",
+                "zoomLevel": 5,
                 "latitude": 40.712784,
                 "longitude": -74.005941
             },
@@ -123,6 +133,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Us Campaign to End the Occupation- Washington, DC",
+                "zoomLevel": 5,
                 "latitude": 38.907192,
                 "longitude": -77.036871
             },
@@ -130,6 +141,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "UndocuBlack Network (1)- Kevin- Washington, DC",
+                "zoomLevel": 5,
                 "latitude": 38.907192,
                 "longitude": -77.036871
             },
@@ -137,6 +149,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "APALA (1)-Washington, DC Felipe",
+                "zoomLevel": 5,
                 "latitude": 38.907192,
                 "longitude": -77.036871
             },
@@ -144,6 +157,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Black Alliance for Just Immigration (1)- Felipe and Rahiel- NYC",
+                "zoomLevel": 5,
                 "latitude": 40.712784,
                 "longitude": -74.005941
             },
@@ -151,6 +165,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "GetEQUAL (1)- Felipe- Washington, DC",
+                "zoomLevel": 5,
                 "latitude": 38.907192,
                 "longitude": -77.036871
             },
@@ -158,6 +173,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Young People for (1)- Felipe Washington DC",
+                "zoomLevel": 5,
                 "latitude": 38.907192,
                 "longitude": -77.036871
             },
@@ -165,6 +181,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "NDLON (1)- Felipe- LA",
+                "zoomLevel": 5,
                 "latitude": 34.052234,
                 "longitude": -118.243685
             },
@@ -172,6 +189,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Mijente (2)- Felipe- Chicago/ Phoenix",
+                "zoomLevel": 5,
                 "latitude": 41.878114,
                 "longitude": -87.629798
             },
@@ -179,6 +197,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Gabriela USA (2) LA Claudia",
+                "zoomLevel": 5,
                 "latitude": 34.052234,
                 "longitude": -118.243685
             },
@@ -186,6 +205,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Unite Here -local 11 LA- 1",
+                "zoomLevel": 5,
                 "latitude": 34.052234,
                 "longitude": -118.243685
             },
@@ -193,6 +213,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Unite Here- 28.50  Oakland- 1",
+                "zoomLevel": 5,
                 "latitude": 37.804364,
                 "longitude": -122.271114
             },
@@ -200,6 +221,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "ACCE (LA)- 1- Stephanie",
+                "zoomLevel": 5,
                 "latitude": 34.052234,
                 "longitude": -118.243685
             },
@@ -207,6 +229,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "ACCE (Oakland)- 1- Stephanie",
+                "zoomLevel": 5,
                 "latitude": 37.804364,
                 "longitude": -122.271114
             },
@@ -214,6 +237,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Org of tenants Portland- 2- Stephanie",
+                "zoomLevel": 5,
                 "latitude": 45.523062,
                 "longitude": -122.676482
             },
@@ -221,6 +245,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "LELO PECO 3- Seattle Stephanie",
+                "zoomLevel": 5,
                 "latitude": 47.606209,
                 "longitude": -122.332071
             },
@@ -228,6 +253,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Union de Vecinos- 2 LA- Stephanie",
+                "zoomLevel": 5,
                 "latitude": 34.052234,
                 "longitude": -118.243685
             },
@@ -235,17 +261,20 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Youth Justice Coalitions- 3 LA- Stephanie",
+                "zoomLevel": 5,
                 "latitude": 34.052234,
                 "longitude": -118.243685
             },
             {
-                "svgPath": targetSVG, "scale": 0.5, "title": "PYFC 1- LA- Stephanie", "latitude": 34.052234,
+                "svgPath": targetSVG, "scale": 0.5, "title": "PYFC 1- LA- Stephanie", "zoomLevel": 5,
+                "latitude": 34.052234,
                 "longitude": -118.243685
             },
             {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Uplift Inglewood- LA 2- Stephanie",
+                "zoomLevel": 5,
                 "latitude": 34.052234,
                 "longitude": -118.243685
             },
@@ -253,6 +282,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "LA Tenants Union 3- Stephanie",
+                "zoomLevel": 5,
                 "latitude": 34.052234,
                 "longitude": -118.243685
             },
@@ -260,6 +290,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Crenshaw Subway coaltion 2 LA- Stephanie",
+                "zoomLevel": 5,
                 "latitude": 34.052234,
                 "longitude": -118.243685
             },
@@ -267,6 +298,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Teamsters Port of LA- 2- Stephanie",
+                "zoomLevel": 5,
                 "latitude": 34.052234,
                 "longitude": -118.243685
             },
@@ -274,6 +306,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Fight for $15- LA- 2- Stephanie",
+                "zoomLevel": 5,
                 "latitude": 34.052234,
                 "longitude": -118.243685
             },
@@ -281,6 +314,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Our Walmart 2- LA- Stephanie",
+                "zoomLevel": 5,
                 "latitude": 34.052234,
                 "longitude": -118.243685
             },
@@ -288,6 +322,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Domestic Worker LA (3)- Stephanie",
+                "zoomLevel": 5,
                 "latitude": 34.052234,
                 "longitude": -118.243685
             },
@@ -295,6 +330,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "UCLA Labor Center (1)- LA Stephanie",
+                "zoomLevel": 5,
                 "latitude": 34.052234,
                 "longitude": -118.243685
             },
@@ -302,6 +338,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "COIL/ SLAD School teachers organizing within the teacher's union- LA 3- Stephanie",
+                "zoomLevel": 5,
                 "latitude": 34.052234,
                 "longitude": -118.243685
             },
@@ -309,6 +346,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "United Teachers LA (3)- Stephanie",
+                "zoomLevel": 5,
                 "latitude": 34.052234,
                 "longitude": -118.243685
             },
@@ -316,6 +354,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Communication Workers of America  (1)- LA Stephanie",
+                "zoomLevel": 5,
                 "latitude": 34.052234,
                 "longitude": -118.243685
             },
@@ -323,6 +362,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "The way/ Live free (1)- Idalin Bay Area",
+                "zoomLevel": 5,
                 "latitude": 37.774929,
                 "longitude": -122.419416
             },
@@ -330,6 +370,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "United Players (2)- Idalin Bay Area",
+                "zoomLevel": 5,
                 "latitude": 37.774929,
                 "longitude": -122.419416
             },
@@ -337,6 +378,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Dream Defenders (3)- Idalin Bay area",
+                "zoomLevel": 5,
                 "latitude": 37.774929,
                 "longitude": -122.419416
             },
@@ -344,6 +386,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Quilombo (3)-Bay Area political education every week/ occupation of land- Idalin",
+                "zoomLevel": 5,
                 "latitude": 37.774929,
                 "longitude": -122.419416
             },
@@ -351,6 +394,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Marcus Book Store (3)- Bay Area Idalin",
+                "zoomLevel": 5,
                 "latitude": 37.774929,
                 "longitude": -122.419416
             },
@@ -358,6 +402,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "California Latinas for Reproductive Justice (1)- LA Claudia",
+                "zoomLevel": 5,
                 "latitude": 34.052234,
                 "longitude": -118.243685
             },
@@ -365,6 +410,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "SOL collective (1)- Oakland Claudia",
+                "zoomLevel": 5,
                 "latitude": 37.804364,
                 "longitude": -122.271114
             },
@@ -386,6 +432,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Ella Baker Center (1) LA- Rahiel",
+                "zoomLevel": 5,
                 "latitude": 34.052234,
                 "longitude": -118.243685
             },
@@ -393,6 +440,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Scholarships A to Z (1)- Tuscan, AZ Kevin",
+                "zoomLevel": 5,
                 "latitude": 32.221743,
                 "longitude": -110.926479
             },
@@ -400,6 +448,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "University Leadership Initiative (1) Austin, TX- Kevin",
+                "zoomLevel": 5,
                 "latitude": 30.267153,
                 "longitude": -97.743061
             },
@@ -407,6 +456,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Youth Empowered in the Struggle Milwaukee, WI  (1)- Kevin",
+                "zoomLevel": 5,
                 "latitude": 43.038902,
                 "longitude": -87.906474
             },
@@ -414,6 +464,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Voces de la Frontera (1)- Milwaukee, WI Felipe and Kevin",
+                "zoomLevel": 5,
                 "latitude": 43.038902,
                 "longitude": -87.906474
             },
@@ -421,6 +472,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Texas Border Farmworkers El Paso, TX (2)- Stephanie",
+                "zoomLevel": 5,
                 "latitude": 31.761878,
                 "longitude": -106.485022
             },
@@ -428,6 +480,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Minnesota NOC- Local SEIU (2)- Stephanie",
+                "zoomLevel": 5,
                 "latitude": 44.977753,
                 "longitude": -93.265011
             },
@@ -435,6 +488,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Misouri ACORN (MORE)/ Black Meza Arizona (1 or 2) Anti-mining- Stephanie",
+                "zoomLevel": 5,
                 "latitude": 38.627003,
                 "longitude": -90.199404
             },
@@ -442,6 +496,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Unite Here San Antonio (1)- Stephanie",
+                "zoomLevel": 5,
                 "latitude": 29.424122,
                 "longitude": -98.493628
             },
@@ -449,6 +504,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Blocs Together Chicago (1)- Claudia",
+                "zoomLevel": 5,
                 "latitude": 41.878114,
                 "longitude": -87.629798
             },
@@ -456,6 +512,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "New Era Detroit (1-2)- Rahiel",
+                "zoomLevel": 5,
                 "latitude": 42.331427,
                 "longitude": -83.045754
             },
@@ -463,6 +520,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Chicago International Youth Movement (1)- Rahiel",
+                "zoomLevel": 5,
                 "latitude": 41.878114,
                 "longitude": -87.629798
             },
@@ -470,6 +528,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Black Mesa Indigineous support collective Flagstaff, Arizona (1)- Arizona Claudia",
+                "zoomLevel": 5,
                 "latitude": 35.198284,
                 "longitude": -111.651302
             },
@@ -477,6 +536,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Kansas Misouri DREAM Act- (1) Kasas City, MO Kevin",
+                "zoomLevel": 5,
                 "latitude": 39.099727,
                 "longitude": -94.578567
             },
@@ -484,6 +544,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Dallas North Texas DREAM Team (1)- Kevin",
+                "zoomLevel": 5,
                 "latitude": 32.776664,
                 "longitude": -96.796988
             },
@@ -491,6 +552,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "National Indigenous Youth Alliance South Dakota (1)- Felipe",
+                "zoomLevel": 5,
                 "latitude": 43.025541,
                 "longitude": -102.556274
             },
@@ -498,6 +560,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Youth United for Change - (2) Philadelphia Idalin",
+                "zoomLevel": 5,
                 "latitude": 39.952584,
                 "longitude": -75.165222
             },
@@ -505,6 +568,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Philadelphia Student Union (1)-Claudia",
+                "zoomLevel": 5,
                 "latitude": 39.952584,
                 "longitude": -75.165222
             },
@@ -512,6 +576,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Malcolm X Grassroots (1) NYC- Claudia",
+                "zoomLevel": 5,
                 "latitude": 40.712784,
                 "longitude": -74.005941
             },
@@ -519,6 +584,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "El Grito Sunset Park (1)- NYC Claudia",
+                "zoomLevel": 5,
                 "latitude": 40.712784,
                 "longitude": -74.005941
             },
@@ -526,6 +592,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Justice Committee (1)- NYC Claudia",
+                "zoomLevel": 5,
                 "latitude": 40.712784,
                 "longitude": -74.005941
             },
@@ -533,6 +600,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Churches United for Fair Housing (1)- NYC Claudia",
+                "zoomLevel": 5,
                 "latitude": 40.712784,
                 "longitude": -74.005941
             },
@@ -540,6 +608,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Existance is Resistance (1)- NYC Claudia",
+                "zoomLevel": 5,
                 "latitude": 40.712784,
                 "longitude": -74.005941
             },
@@ -547,17 +616,20 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "People Power Movement (1)-NYC  Claudia",
+                "zoomLevel": 5,
                 "latitude": 40.712784,
                 "longitude": -74.005941
             },
             {
-                "svgPath": targetSVG, "scale": 0.5, "title": "Eztudio 43 (1) NYC Claudia", "latitude": 40.712784,
+                "svgPath": targetSVG, "scale": 0.5, "title": "Eztudio 43 (1) NYC Claudia",
+                "zoomLevel": 5,"latitude": 40.712784,
                 "longitude": -74.005941
             },
             {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Rockaway Youth Taskforce (2)- Rahiel- NYC",
+                "zoomLevel": 5,
                 "latitude": 40.712784,
                 "longitude": -74.005941
             },
@@ -565,6 +637,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "NY Justice League (1)-NYC  Rahiel",
+                "zoomLevel": 5,
                 "latitude": 40.712784,
                 "longitude": -74.005941
             },
@@ -575,6 +648,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Coalition of Immokalee Workers (1)- Immokalee, FL Rahiel, Felipe and Claudia",
+                "zoomLevel": 5,
                 "latitude": 26.418525,
                 "longitude": -81.417406
             },
@@ -582,17 +656,20 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Leaders for a beautiful struggle (1-2) Rahiel Baltimore",
+                "zoomLevel": 5,
                 "latitude": 39.290385,
                 "longitude": -76.612189
             },
             {
-                "svgPath": targetSVG, "scale": 0.5, "title": "SEIU 32 BJ (1)- NYC Claudia", "latitude": 40.712784,
+                "svgPath": targetSVG, "scale": 0.5, "title": "SEIU 32 BJ (1)- NYC Claudia",
+                "zoomLevel": 5,"latitude": 40.712784,
                 "longitude": -74.005941
             },
             {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Student Immigrant Movement (1)- Boston Kevin",
+                "zoomLevel": 5,
                 "latitude": 42.360082,
                 "longitude": -71.058880
             },
@@ -607,21 +684,25 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Revolutionary Student Coordination Committee (1)- Kevin NYC",
+                "zoomLevel": 5,
                 "latitude": 40.712784,
                 "longitude": -74.005941
             },
             {
-                "svgPath": targetSVG, "scale": 0.5, "title": "MinkWN (1)- Kevin NYC", "latitude": 40.712784,
+                "svgPath": targetSVG, "scale": 0.5, "title": "MinkWN (1)- Kevin NYC",
+                "zoomLevel": 5,"latitude": 40.712784,
                 "longitude": -74.005941
             },
             {
-                "svgPath": targetSVG, "scale": 0.5, "title": "DRUM (1)- NYC Kevin", "latitude": 40.712784,
+                "svgPath": targetSVG, "scale": 0.5, "title": "DRUM (1)- NYC Kevin",
+                "zoomLevel": 5,"latitude": 40.712784,
                 "longitude": -74.005941
             },
             {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Queens Neighborhoods United (1)-NYC  Kevin",
+                "zoomLevel": 5,
                 "latitude": 40.712784,
                 "longitude": -74.005941
             },
@@ -629,6 +710,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Families for Freedom (1)- NYC Kevin",
+                "zoomLevel": 5,
                 "latitude": 40.712784,
                 "longitude": -74.005941
             },
@@ -636,6 +718,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Brotherhood Sister Soul (1)- NYC Claudia and Rahiel",
+                "zoomLevel": 5,
                 "latitude": 40.712784,
                 "longitude": -74.005941
             },
@@ -643,6 +726,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Make the Road NY (1)- NYCKevin, Claudia and Felipe",
+                "zoomLevel": 5,
                 "latitude": 40.712784,
                 "longitude": -74.005941
             },
@@ -650,6 +734,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "New York Collective of Radical Educators (1)- NYC Claudia Radical educator",
+                "zoomLevel": 5,
                 "latitude": 40.712784,
                 "longitude": -74.005941
             },
@@ -657,6 +742,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "API for BlackLives (1)- NYC Kevin",
+                "zoomLevel": 5,
                 "latitude": 40.712784,
                 "longitude": -74.005941
             },
@@ -664,6 +750,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Florida Immigrant Coalition (1)- Miami, FLFelipe",
+                "zoomLevel": 5,
                 "latitude": 25.761680,
                 "longitude": -80.191790
             },
@@ -671,6 +758,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Farmworker Association of Florida (1)- Felipe",
+                "zoomLevel": 5,
                 "latitude": 28.693408,
                 "longitude": -81.532215
             },
@@ -678,6 +766,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "QLatinx (1)- Orlando, FL Felipe",
+                "zoomLevel": 5,
                 "latitude": 28.538335,
                 "longitude": -81.379236
             },
@@ -685,6 +774,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Hope Community Center (1)- Apopka, FL Felipe",
+                "zoomLevel": 5,
                 "latitude": 28.693408,
                 "longitude": -81.532215
             },
@@ -692,6 +782,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "LULAC in Tampa (1)- Felipe",
+                "zoomLevel": 5,
                 "latitude": 27.950575,
                 "longitude": -82.457178
             },
@@ -699,6 +790,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Southern on New Ground (1)- Durham, NC Felipe",
+                "zoomLevel": 5,
                 "latitude": 35.994033,
                 "longitude": -78.898619
             },
@@ -706,6 +798,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Southeast Immigrant Rights Network (1)- Nashville, TN Felipe",
+                "zoomLevel": 5,
                 "latitude": 36.162664,
                 "longitude": -86.781602
             },
@@ -713,6 +806,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Alabama Coalition for Immigrant Justice (1)- Birmingham, AL Felipe",
+                "zoomLevel": 5,
                 "latitude": 33.520661,
                 "longitude": -86.802490
             },
@@ -720,6 +814,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Tennesse Immigrant and Refugee Coalition (2)- Nashville, TN Felipe",
+                "zoomLevel": 5,
                 "latitude": 36.162664,
                 "longitude": -86.781602
             },
@@ -727,6 +822,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Georgia Latino Alliance for Human Rights (1)-Atlanta, GA Felipe",
+                "zoomLevel": 5,
                 "latitude": 33.748995,
                 "longitude": -84.387982
             },
@@ -734,6 +830,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Queer Detenee Empowerment Project (1)- NYC Felipe",
+                "zoomLevel": 5,
                 "latitude": 40.712784,
                 "longitude": -74.005941
             },
@@ -741,6 +838,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Audre Lorde Project (1)- NYC Claudia",
+                "zoomLevel": 5,
                 "latitude": 40.712784,
                 "longitude": -74.005941
             },
@@ -748,6 +846,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Miami Worker Center (1)- Felipe",
+                "zoomLevel": 5,
                 "latitude": 25.761680,
                 "longitude": -80.191790
             },
@@ -755,6 +854,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "SEIU Southeast (1)- Miami, FL Felipe",
+                "zoomLevel": 5,
                 "latitude": 25.761680,
                 "longitude": -80.191790
             },
@@ -762,6 +862,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "Dream Defenders (1)- Miami, FL Felipe",
+                "zoomLevel": 5,
                 "latitude": 25.761680,
                 "longitude": -80.191790
             },
@@ -769,6 +870,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "New York Nurse Association (3)- Stephanie",
+                "zoomLevel": 5,
                 "latitude": 40.712784,
                 "longitude": -74.005941
             },
@@ -776,6 +878,7 @@ AmCharts.makeChart('org-map', {
                 "svgPath": targetSVG,
                 "scale": 0.5,
                 "title": "El Sol (1)- Jupitor, FL Felipe",
+                "zoomLevel": 5,
                 "latitude": 26.934225,
                 "longitude": -80.094209
             }
