@@ -2,11 +2,9 @@ doctype html
 html
   head
     title= title
-    link(rel='stylesheet', href='/stylesheets/style.css')
-    script(type='text/javascript' src='https://www.amcharts.com/lib/3/ammap.js')
-    link(rel='stylesheet', href='https://www.amcharts.com/lib/3/plugins/export/export.css')
-    script(type='text/javascript' src='https://www.amcharts.com/lib/3/maps/js/usa2Low.js')
-    script(type='text/javascript' src='/javascripts/map.js')
+    script(type='text/javascript' src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.26.0/mapbox-gl.js')
+    link(rel='stylesheet' href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.26.0/mapbox-gl.css')
+    link(rel='stylesheet' href='/stylesheets/style.css')
 
   body
     block content
