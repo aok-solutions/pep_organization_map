@@ -2,7 +2,7 @@ L.mapbox.accessToken = 'pk.eyJ1IjoiYXlhbmdhIiwiYSI6ImNpdWU1enFmMzAwYXgyem53OGcxe
 
 var info = document.getElementById('info');
 var map = L.mapbox.map('map', 'mapbox.light')
-    .setView([40, -94.50], 4);
+    .setView([40, -74.50], 4);
 
 var myLayer = L.mapbox.featureLayer().addTo(map);
 
@@ -1164,7 +1164,6 @@ myLayer.setGeoJSON(geojson);
 
 myLayer.on('click',function(e) {
     e.layer.closePopup();
-    map.setView(e.latlng, map.getZoom() + 3);
 
     var feature = e.layer.feature;
     var content = '<div><strong>' + feature.properties.title + '</strong>';
