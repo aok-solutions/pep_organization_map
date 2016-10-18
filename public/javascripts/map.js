@@ -2,14 +2,9 @@ L.mapbox.accessToken = 'pk.eyJ1IjoiYXlhbmdhIiwiYSI6ImNpdWU1enFmMzAwYXgyem53OGcxe
 
 var info = document.getElementById('info');
 
-var southWest = L.latLng(12.274810, -172.926357),
-    northEast = L.latLng(71.744458, -36.119117),
-    bounds = L.latLngBounds(southWest, northEast);
-
 var map = L.mapbox.map('map', 'mapbox.light', {
-    maxBounds: bounds,
     minZoom: 3
-}).setView([40, -74.50], 4);
+}).setView([40, -76], 4);
 
 var myLayer = L.mapbox.featureLayer().addTo(map);
 
