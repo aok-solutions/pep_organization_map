@@ -1166,12 +1166,14 @@ myLayer.on('click',function(e) {
     e.layer.closePopup();
 
     var feature = e.layer.feature;
-    var content = '<div><strong>' + feature.properties.title + '</strong>';
+    var list = '';
     for(var i = 0; i < feature.properties.organizations.length; i++){
         var org = feature.properties.organizations[i];
-        var div = '<div>'+ org.name + ' - ' + org.engagementLevel + '</div>'
-        content += div;
+        var div = '<li class="list-group-item">'+ org.name + ' <span class="badge">' + org.engagementLevel + '</span></li>';
+        list += div;
     }
+    var content = '<div class="panel panel-default"><div class="panel-heading"><strong>' + feature.properties.title + '</strong></div><ul class="list-group">' + list +'</ul></div>';
+
 
     info.innerHTML = content;
 });
@@ -1187,5 +1189,5 @@ map.on('click', empty);
 empty();
 
 function empty() {
-    info.innerHTML = '<div></div>';
+    info.innerHTML = '<div class="panel panel-default"><div class="panel-heading"><strong>Click a Location</div></div>';
 }
