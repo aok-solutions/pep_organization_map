@@ -184,6 +184,64 @@ var geojson = {
                 "marker-size": "large",
                 "marker-symbol": "star"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.036871,
+                    38.907192
+                ]
+            },
+            "properties": {
+                "title": "Washington, DC",
+                "organizations": [
+                    {
+                        "name": "350.org",
+                        "engagementLevel": 1,
+                        "members": ["Idalin"]
+                    },
+                    {
+                        "name": "PICO Network",
+                        "engagementLevel": 2,
+                        "members": ["Rahiel"]
+                    },
+                    {
+                        "name": "NAACP Legal Defense Fund",
+                        "engagementLevel": 1,
+                        "members": ["Rahiel"]
+                    },
+                    {
+                        "name": "US Campaign to End the Occupation",
+                        "engagementLevel": 1,
+                        "members": ["Rahiel"]
+                    },
+                    {
+                        "name": "UndocuBlack Network",
+                        "engagementLevel": 1,
+                        "members": ["Kevin"]
+                    },
+                    {
+                        "name": "APALA",
+                        "engagementLevel": 1,
+                        "members": ["Rahiel"]
+                    },
+                    {
+                        "name": "GetEQUAL",
+                        "engagementLevel": 1,
+                        "members": ["Felipe"]
+                    },
+                    {
+                        "name": "Young People for",
+                        "engagementLevel": 1,
+                        "members": ["Rahiel"]
+                    }
+                ],
+                "marker-color": "#f86767",
+                "marker-size": "large",
+                "marker-symbol": "star"
+            }
         }
     ]
 };
