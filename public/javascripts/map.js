@@ -31,7 +31,7 @@ var geojson = {
                     {
                         "name": "Union of Electricians",
                         "engagementLevel": 3,
-                        "members": []
+                        "members": ["Stephanie"]
                     },
                     {
                         "name": "Mijente",
@@ -190,6 +190,16 @@ var geojson = {
                         "name": "Students for Justice in Palestine",
                         "engagementLevel": 1,
                         "members": ["Kevin"]
+                    },
+                    {
+                        "name": "RDACBX",
+                        "engagementLevel": 1,
+                        "members": ["Claudia"]
+                    },
+                    {
+                        "name": "Estudios 43",
+                        "engagementLevel": 1,
+                        "members": ["Claudia"]
                     }
                 ],
                 "marker-color": "#f86767",
@@ -401,9 +411,9 @@ var geojson = {
                 "title": "Immokalee, FL",
                 "organizations": [
                     {
-                        "name": "Student Farmworker Association",
+                        "name": "Student Farmworker Alliance",
                         "engagementLevel": 2,
-                        "members": []
+                        "members": ["Rahiel","Felipe","Claudia"]
                     },
                     {
                         "name": "Coalition of Immokalee Workers",
@@ -758,6 +768,11 @@ var geojson = {
                         "name": "New Era Detroit",
                         "engagementLevel": 2,
                         "members": ["Rahiel"]
+                    },
+                    {
+                        "name": "Michigan Welfare Rights",
+                        "engagementLevel": 1,
+                        "members": ["Idalin"]
                     }
                 ],
                 "marker-color": "#ffa84c",
@@ -855,6 +870,11 @@ var geojson = {
                         "name": "Philadelphia Student Union",
                         "engagementLevel": 1,
                         "members": ["Claudia"]
+                    },
+                    {
+                        "name": "Put People First",
+                        "engagementLevel": 1,
+                        "members": ["Claudia"]
                     }
                 ],
                 "marker-color": "#f86767",
@@ -946,7 +966,7 @@ var geojson = {
                     {
                         "name": "Florida Immigrant Coalition",
                         "engagementLevel": 1,
-                        "members": ["Kevin"]
+                        "members": ["Kevin", "Felipe"]
                     },
                     {
                         "name": "Miami Worker Center",
@@ -1150,7 +1170,7 @@ var geojson = {
                 ]
             },
             "properties": {
-                "title": "Jupitor, FL",
+                "title": "Jupiter, FL",
                 "organizations": [
                     {
                         "name": "El Sol",
@@ -1161,6 +1181,75 @@ var geojson = {
                 "marker-color": "#f86767",
                 "marker-size": "large"
                 
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.212072,
+                    44.475882
+                ]
+            },
+            "properties": {
+                "title": "Burlington, VT",
+                "organizations": [
+                    {
+                        "name": "Vermont Worker Center",
+                        "engagementLevel": 1,
+                        "members": ["Felipe"]
+                    }
+                ],
+                "marker-color": "#f86767",
+                "marker-size": "large"
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.551487,
+                    35.595058
+                ]
+            },
+            "properties": {
+                "title": "Asheville, NC",
+                "organizations": [
+                    {
+                        "name": "Nuestro Centro",
+                        "engagementLevel": 1,
+                        "members": []
+                    }
+                ],
+                "marker-color": "#f86767",
+                "marker-size": "large"
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.172367,
+                    40.735657
+                ]
+            },
+            "properties": {
+                "title": "Newark, NJ",
+                "organizations": [
+                    {
+                        "name": "Winds of the Spirit",
+                        "engagementLevel": 1,
+                        "members": ["Claudia"]
+                    }
+                ],
+                "marker-color": "#f86767",
+                "marker-size": "large"
+
             }
         }
     ]
