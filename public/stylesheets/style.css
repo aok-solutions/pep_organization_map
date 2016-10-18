@@ -13,8 +13,8 @@ a {
 
 .info {
   position: absolute;
-  top: 150px;
-  right: 90px;
+  top: 130px;
+  right: 60px;
   width: 30vw;
   max-height: 450px;
   overflow: auto;
