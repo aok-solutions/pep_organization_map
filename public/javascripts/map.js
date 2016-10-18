@@ -178,6 +178,11 @@ var geojson = {
                         "name": "Audre Lorde Project",
                         "engagementLevel": 1,
                         "members": ["Claudia"]
+                    },
+                    {
+                        "name": "Students for Justice in Palestine",
+                        "engagementLevel": 1,
+                        "members": ["Kevin"]
                     }
                 ],
                 "marker-color": "#f86767",
@@ -359,6 +364,16 @@ var geojson = {
                         "name": "Ella Baker Center",
                         "engagementLevel": 1,
                         "members": ["Rahiel"]
+                    },
+                    {
+                        "name": "California Immigrant Justice Youth Alliance",
+                        "engagementLevel": 1,
+                        "members": ["Kevin"]
+                    },
+                    {
+                        "name": "Immigrant Youth Coalition",
+                        "engagementLevel": 1,
+                        "members": ["Kevin"]
                     }
                 ],
                 "marker-color": "#f86767",
