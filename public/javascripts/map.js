@@ -1177,6 +1177,13 @@ myLayer.on('click',function(e) {
     info.innerHTML = content;
 });
 
+myLayer.on('mouseover', function(e) {
+    e.layer.openPopup();
+});
+myLayer.on('mouseout', function(e) {
+    e.layer.closePopup();
+});
+
 map.on('click', empty);
 empty();
 
