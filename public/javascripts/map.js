@@ -193,6 +193,7 @@ myLayer.setGeoJSON(geojson);
 
 myLayer.on('click',function(e) {
     e.layer.closePopup();
+    map.setView(e.latlng, map.getZoom() + 3);
 
     var feature = e.layer.feature;
     var content = '<div><strong>' + feature.properties.title + '</strong>';
@@ -205,7 +206,7 @@ myLayer.on('click',function(e) {
     info.innerHTML = content;
 });
 
-map.on('move', empty);
+map.on('click', empty);
 empty();
 
 function empty() {
