@@ -49,9 +49,9 @@ var geojson = {
                         "members": ["Rahiel"]
                     }
                 ],
-                "marker-color": "#f86767",
-                "marker-size": "large",
-                "marker-symbol": "star"
+                "marker-color": "#ffa84c",
+                "marker-size": "large"
+                
             }
         },
         {
@@ -193,8 +193,8 @@ var geojson = {
                     }
                 ],
                 "marker-color": "#f86767",
-                "marker-size": "large",
-                "marker-symbol": "star"
+                "marker-size": "large"
+                
             }
         },
         {
@@ -251,8 +251,8 @@ var geojson = {
                     }
                 ],
                 "marker-color": "#f86767",
-                "marker-size": "large",
-                "marker-symbol": "star"
+                "marker-size": "large"
+                
             }
         },
         {
@@ -383,9 +383,9 @@ var geojson = {
                         "members": ["Kevin"]
                     }
                 ],
-                "marker-color": "#f86767",
-                "marker-size": "large",
-                "marker-symbol": "star"
+                "marker-color": "#4ca8ff",
+                "marker-size": "large"
+                
             }
         },
         {
@@ -412,8 +412,8 @@ var geojson = {
                     }
                 ],
                 "marker-color": "#f86767",
-                "marker-size": "large",
-                "marker-symbol": "star"
+                "marker-size": "large"
+                
             }
         },
         {
@@ -434,9 +434,9 @@ var geojson = {
                         "members": []
                     }
                 ],
-                "marker-color": "#f86767",
-                "marker-size": "large",
-                "marker-symbol": "star"
+                "marker-color": "#4ca8ff",
+                "marker-size": "large"
+                
             }
         },
         {
@@ -492,9 +492,9 @@ var geojson = {
                         "members": ["Idalin"]
                     }
                 ],
-                "marker-color": "#f86767",
-                "marker-size": "large",
-                "marker-symbol": "star"
+                "marker-color": "#4ca8ff",
+                "marker-size": "large"
+                
             }
         },
         {
@@ -515,9 +515,9 @@ var geojson = {
                         "members": ["Stephanie"]
                     }
                 ],
-                "marker-color": "#f86767",
-                "marker-size": "large",
-                "marker-symbol": "star"
+                "marker-color": "#4ca8ff",
+                "marker-size": "large"
+                
             }
         },
         {
@@ -548,9 +548,9 @@ var geojson = {
                         "members": ["Claudia"]
                     }
                 ],
-                "marker-color": "#f86767",
-                "marker-size": "large",
-                "marker-symbol": "star"
+                "marker-color": "#4ca8ff",
+                "marker-size": "large"
+                
             }
         },
         {
@@ -571,9 +571,9 @@ var geojson = {
                         "members": ["Kevin"]
                     }
                 ],
-                "marker-color": "#f86767",
-                "marker-size": "large",
-                "marker-symbol": "star"
+                "marker-color": "#ffa84c",
+                "marker-size": "large"
+                
             }
         },
         {
@@ -594,9 +594,9 @@ var geojson = {
                         "members": []
                     }
                 ],
-                "marker-color": "#f86767",
-                "marker-size": "large",
-                "marker-symbol": "star"
+                "marker-color": "#ffa84c",
+                "marker-size": "large"
+                
             }
         },
         {
@@ -622,9 +622,9 @@ var geojson = {
                         "members": ["Kevin", "Felipe"]
                     }
                 ],
-                "marker-color": "#f86767",
-                "marker-size": "large",
-                "marker-symbol": "star"
+                "marker-color": "#ffa84c",
+                "marker-size": "large"
+                
             }
         },
         {
@@ -645,9 +645,9 @@ var geojson = {
                         "members": ["Kevin"]
                     }
                 ],
-                "marker-color": "#f86767",
-                "marker-size": "large",
-                "marker-symbol": "star"
+                "marker-color": "#ffa84c",
+                "marker-size": "large"
+                
             }
         },
         {
@@ -668,9 +668,9 @@ var geojson = {
                         "members": ["Stephanie"]
                     }
                 ],
-                "marker-color": "#f86767",
-                "marker-size": "large",
-                "marker-symbol": "star"
+                "marker-color": "#ffa84c",
+                "marker-size": "large"
+                
             }
         },
         {
@@ -691,9 +691,9 @@ var geojson = {
                         "members": ["Stephanie"]
                     }
                 ],
-                "marker-color": "#f86767",
-                "marker-size": "large",
-                "marker-symbol": "star"
+                "marker-color": "#ffa84c",
+                "marker-size": "large"
+                
             }
         },
         {
@@ -714,9 +714,9 @@ var geojson = {
                         "members": ["Claudia"]
                     }
                 ],
-                "marker-color": "#f86767",
-                "marker-size": "large",
-                "marker-symbol": "star"
+                "marker-color": "#ffa84c",
+                "marker-size": "large"
+                
             }
         },
         {
@@ -737,9 +737,9 @@ var geojson = {
                         "members": ["Stephanie"]
                     }
                 ],
-                "marker-color": "#f86767",
-                "marker-size": "large",
-                "marker-symbol": "star"
+                "marker-color": "#ffa84c",
+                "marker-size": "large"
+                
             }
         },
         {
@@ -760,9 +760,9 @@ var geojson = {
                         "members": ["Rahiel"]
                     }
                 ],
-                "marker-color": "#f86767",
-                "marker-size": "large",
-                "marker-symbol": "star"
+                "marker-color": "#ffa84c",
+                "marker-size": "large"
+                
             }
         },
         {
@@ -783,9 +783,9 @@ var geojson = {
                         "members": ["Kevin"]
                     }
                 ],
-                "marker-color": "#f86767",
-                "marker-size": "large",
-                "marker-symbol": "star"
+                "marker-color": "#ffa84c",
+                "marker-size": "large"
+                
             }
         },
         {
@@ -806,9 +806,9 @@ var geojson = {
                         "members": ["Kevin"]
                     }
                 ],
-                "marker-color": "#f86767",
-                "marker-size": "large",
-                "marker-symbol": "star"
+                "marker-color": "#ffa84c",
+                "marker-size": "large"
+                
             }
         },
         {
@@ -829,9 +829,9 @@ var geojson = {
                         "members": ["Felipe"]
                     }
                 ],
-                "marker-color": "#f86767",
-                "marker-size": "large",
-                "marker-symbol": "star"
+                "marker-color": "#ffa84c",
+                "marker-size": "large"
+                
             }
         },
         {
@@ -858,8 +858,8 @@ var geojson = {
                     }
                 ],
                 "marker-color": "#f86767",
-                "marker-size": "large",
-                "marker-symbol": "star"
+                "marker-size": "large"
+                
             }
         },
         {
@@ -881,8 +881,8 @@ var geojson = {
                     }
                 ],
                 "marker-color": "#f86767",
-                "marker-size": "large",
-                "marker-symbol": "star"
+                "marker-size": "large"
+                
             }
         },
         {
@@ -904,8 +904,8 @@ var geojson = {
                     }
                 ],
                 "marker-color": "#f86767",
-                "marker-size": "large",
-                "marker-symbol": "star"
+                "marker-size": "large"
+                
             }
         },
         {
@@ -927,8 +927,8 @@ var geojson = {
                     }
                 ],
                 "marker-color": "#f86767",
-                "marker-size": "large",
-                "marker-symbol": "star"
+                "marker-size": "large"
+                
             }
         },
         {
@@ -965,8 +965,8 @@ var geojson = {
                     }
                 ],
                 "marker-color": "#f86767",
-                "marker-size": "large",
-                "marker-symbol": "star"
+                "marker-size": "large"
+                
             }
         },
         {
@@ -993,8 +993,8 @@ var geojson = {
                     }
                 ],
                 "marker-color": "#f86767",
-                "marker-size": "large",
-                "marker-symbol": "star"
+                "marker-size": "large"
+                
             }
         },
         {
@@ -1016,8 +1016,8 @@ var geojson = {
                     }
                 ],
                 "marker-color": "#f86767",
-                "marker-size": "large",
-                "marker-symbol": "star"
+                "marker-size": "large"
+                
             }
         },
         {
@@ -1039,8 +1039,8 @@ var geojson = {
                     }
                 ],
                 "marker-color": "#f86767",
-                "marker-size": "large",
-                "marker-symbol": "star"
+                "marker-size": "large"
+                
             }
         },
         {
@@ -1062,8 +1062,8 @@ var geojson = {
                     }
                 ],
                 "marker-color": "#f86767",
-                "marker-size": "large",
-                "marker-symbol": "star"
+                "marker-size": "large"
+                
             }
         },
         {
@@ -1090,8 +1090,8 @@ var geojson = {
                     }
                 ],
                 "marker-color": "#f86767",
-                "marker-size": "large",
-                "marker-symbol": "star"
+                "marker-size": "large"
+                
             }
         },
         {
@@ -1113,8 +1113,8 @@ var geojson = {
                     }
                 ],
                 "marker-color": "#f86767",
-                "marker-size": "large",
-                "marker-symbol": "star"
+                "marker-size": "large"
+                
             }
         },
         {
@@ -1136,8 +1136,8 @@ var geojson = {
                     }
                 ],
                 "marker-color": "#f86767",
-                "marker-size": "large",
-                "marker-symbol": "star"
+                "marker-size": "large"
+                
             }
         },
         {
@@ -1159,8 +1159,8 @@ var geojson = {
                     }
                 ],
                 "marker-color": "#f86767",
-                "marker-size": "large",
-                "marker-symbol": "star"
+                "marker-size": "large"
+                
             }
         }
     ]
