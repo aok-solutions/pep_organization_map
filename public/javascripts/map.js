@@ -32,25 +32,6 @@ var geojson = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0,
-                    0
-                ]
-            },
-            "properties": {
-                "title": "Trade Unions for Energy Democracy (2)- for contacts for teachers- Stephanie",
-                "engagementLevel": 1,
-                "cityState": "",
-                "members": [],
-                "marker-color": "#f86767",
-                "marker-size": "large",
-                "marker-symbol": "star"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -77.036871,
                     38.907192
                 ]
@@ -203,69 +184,12 @@ var geojson = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0,
-                    0
-                ]
-            },
-            "properties": {
-                "title": "Moms Demand Action (1)- Rahiel",
-                "engagementLevel": 1,
-                "cityState": "",
-                "members": [],
-                "marker-color": "#f86767",
-                "marker-size": "large",
-                "marker-symbol": "star"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -118.469483,
                     33.985047
                 ]
             },
             "properties": {
                 "title": "Code Pink (1)-Venice, CA",
-                "engagementLevel": 1,
-                "cityState": "",
-                "members": [],
-                "marker-color": "#f86767",
-                "marker-size": "large",
-                "marker-symbol": "star"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0,
-                    0
-                ]
-            },
-            "properties": {
-                "title": "Bagong Alyansang Makabayan (New Patriotic Alliance) (1)- Kevin",
-                "engagementLevel": 1,
-                "cityState": "",
-                "members": [],
-                "marker-color": "#f86767",
-                "marker-size": "large",
-                "marker-symbol": "star"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0,
-                    0
-                ]
-            },
-            "properties": {
-                "title": "National Prison Divestment Campaign (1)- Kevin",
                 "engagementLevel": 1,
                 "cityState": "",
                 "members": [],
@@ -982,44 +906,6 @@ var geojson = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0,
-                    0
-                ]
-            },
-            "properties": {
-                "title": "California Immigrant Justice Youth Alliance (2)- Kevin",
-                "engagementLevel": 1,
-                "cityState": "",
-                "members": [],
-                "marker-color": "#f86767",
-                "marker-size": "large",
-                "marker-symbol": "star"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0,
-                    0
-                ]
-            },
-            "properties": {
-                "title": "Immigrant Youth Coalition CA(2)- Kevin",
-                "engagementLevel": 1,
-                "cityState": "",
-                "members": [],
-                "marker-color": "#f86767",
-                "marker-size": "large",
-                "marker-symbol": "star"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -118.243685,
                     34.052234
                 ]
@@ -1533,24 +1419,6 @@ var geojson = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
-                ]
-            },
-            "properties": {
-                "engagementLevel": 1,
-                "cityState": "",
-                "members": [],
-                "marker-color": "#f86767",
-                "marker-size": "large",
-                "marker-symbol": "star"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -81.417406,
                     26.418525
                 ]
@@ -1614,25 +1482,6 @@ var geojson = {
             },
             "properties": {
                 "title": "Student Immigrant Movement (1)- Boston Kevin",
-                "engagementLevel": 1,
-                "cityState": "",
-                "members": [],
-                "marker-color": "#f86767",
-                "marker-size": "large",
-                "marker-symbol": "star"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0,
-                    0
-                ]
-            },
-            "properties": {
-                "title": "Connecticut Students for a Dream (1)- Kevin",
                 "engagementLevel": 1,
                 "cityState": "",
                 "members": [],
