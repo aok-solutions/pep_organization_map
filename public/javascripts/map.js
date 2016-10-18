@@ -541,16 +541,6 @@ var geojson = {
                         "name": "LELO PECO",
                         "engagementLevel": 3,
                         "members": ["Stephanie"]
-                    },
-                    {
-                        "name": "ACCE",
-                        "engagementLevel": 1,
-                        "members": ["Stephanie"]
-                    },
-                    {
-                        "name": "SOL collective",
-                        "engagementLevel": 1,
-                        "members": ["Claudia"]
                     }
                 ],
                 "marker-color": "#4ca8ff",
