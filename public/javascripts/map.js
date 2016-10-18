@@ -380,6 +380,781 @@ var geojson = {
                 "marker-size": "large",
                 "marker-symbol": "star"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.417406,
+                    26.418525
+                ]
+            },
+            "properties": {
+                "title": "Immokalee, FL",
+                "organizations": [
+                    {
+                        "name": "Student Farmworker Association",
+                        "engagementLevel": 2,
+                        "members": []
+                    },
+                    {
+                        "name": "Coalition of Immokalee Workers",
+                        "engagementLevel": 1,
+                        "members": ["Rahiel","Felipe","Claudia"]
+                    }
+                ],
+                "marker-color": "#f86767",
+                "marker-size": "large",
+                "marker-symbol": "star"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.469483,
+                    33.985047
+                ]
+            },
+            "properties": {
+                "title": "Venice, CA",
+                "organizations": [
+                    {
+                        "name": "Code Pink",
+                        "engagementLevel": 1,
+                        "members": []
+                    }
+                ],
+                "marker-color": "#f86767",
+                "marker-size": "large",
+                "marker-symbol": "star"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.271114,
+                    37.804364
+                ]
+            },
+            "properties": {
+                "title": "Oakland, CA",
+                "organizations": [
+                    {
+                        "name": "Unite Here - 28.50",
+                        "engagementLevel": 1,
+                        "members": []
+                    },
+                    {
+                        "name": "ACCE",
+                        "engagementLevel": 1,
+                        "members": ["Stephanie"]
+                    },
+                    {
+                        "name": "SOL collective",
+                        "engagementLevel": 1,
+                        "members": ["Claudia"]
+                    },
+                    {
+                        "name": "The Way | Live free",
+                        "engagementLevel": 1,
+                        "members": ["Idalin"]
+                    },
+                    {
+                        "name": "United Players",
+                        "engagementLevel": 2,
+                        "members": ["Idalin"]
+                    },
+                    {
+                        "name": "Dream Defenders",
+                        "engagementLevel": 3,
+                        "members": ["Idalin"]
+                    },
+                    {
+                        "name": "Qilombo",
+                        "engagementLevel": 3,
+                        "members": ["Idalin"]
+                    },
+                    {
+                        "name": "Marcus Book Store",
+                        "engagementLevel": 3,
+                        "members": ["Idalin"]
+                    }
+                ],
+                "marker-color": "#f86767",
+                "marker-size": "large",
+                "marker-symbol": "star"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.676482,
+                    45.523062
+                ]
+            },
+            "properties": {
+                "title": "Portland, OR",
+                "organizations": [
+                    {
+                        "name": "Org of tenants",
+                        "engagementLevel": 2,
+                        "members": ["Stephanie"]
+                    }
+                ],
+                "marker-color": "#f86767",
+                "marker-size": "large",
+                "marker-symbol": "star"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.332071,
+                    47.606209
+                ]
+            },
+            "properties": {
+                "title": "Seattle, WA",
+                "organizations": [
+                    {
+                        "name": "LELO PECO",
+                        "engagementLevel": 3,
+                        "members": ["Stephanie"]
+                    },
+                    {
+                        "name": "ACCE",
+                        "engagementLevel": 1,
+                        "members": ["Stephanie"]
+                    },
+                    {
+                        "name": "SOL collective",
+                        "engagementLevel": 1,
+                        "members": ["Claudia"]
+                    }
+                ],
+                "marker-color": "#f86767",
+                "marker-size": "large",
+                "marker-symbol": "star"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.926479,
+                    32.221743
+                ]
+            },
+            "properties": {
+                "title": "Tuscon, AZ",
+                "organizations": [
+                    {
+                        "name": "Scholarships A to Z",
+                        "engagementLevel": 1,
+                        "members": ["Kevin"]
+                    }
+                ],
+                "marker-color": "#f86767",
+                "marker-size": "large",
+                "marker-symbol": "star"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.743061,
+                    30.267153
+                ]
+            },
+            "properties": {
+                "title": "Austin, TX",
+                "organizations": [
+                    {
+                        "name": "University Leadership Initiative",
+                        "engagementLevel": 1,
+                        "members": []
+                    }
+                ],
+                "marker-color": "#f86767",
+                "marker-size": "large",
+                "marker-symbol": "star"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.906474,
+                    43.038902
+                ]
+            },
+            "properties": {
+                "title": "Milwaukee, WI",
+                "organizations": [
+                    {
+                        "name": "Youth Empowered in the Struggle",
+                        "engagementLevel": 1,
+                        "members": ["Kevin"]
+                    },
+                    {
+                        "name": "Voces de la Frontera",
+                        "engagementLevel": 1,
+                        "members": ["Kevin", "Felipe"]
+                    }
+                ],
+                "marker-color": "#f86767",
+                "marker-size": "large",
+                "marker-symbol": "star"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.485022,
+                    31.761878
+                ]
+            },
+            "properties": {
+                "title": "El Paso, TX",
+                "organizations": [
+                    {
+                        "name": "Texas Border Farmworkers",
+                        "engagementLevel": 1,
+                        "members": ["Kevin"]
+                    }
+                ],
+                "marker-color": "#f86767",
+                "marker-size": "large",
+                "marker-symbol": "star"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.265011,
+                    44.977753
+                ]
+            },
+            "properties": {
+                "title": "Minnesota, MN",
+                "organizations": [
+                    {
+                        "name": "Minnesota NOC- SEIU",
+                        "engagementLevel": 2,
+                        "members": ["Stephanie"]
+                    }
+                ],
+                "marker-color": "#f86767",
+                "marker-size": "large",
+                "marker-symbol": "star"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.199404,
+                    38.627003
+                ]
+            },
+            "properties": {
+                "title": "St Louis, MO",
+                "organizations": [
+                    {
+                        "name": "Missouri ACORN (MORE)",
+                        "engagementLevel": 1,
+                        "members": ["Stephanie"]
+                    }
+                ],
+                "marker-color": "#f86767",
+                "marker-size": "large",
+                "marker-symbol": "star"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.651302,
+                    35.198284
+                ]
+            },
+            "properties": {
+                "title": "Flagstaff, AZ",
+                "organizations": [
+                    {
+                        "name": "Black Mesa Indigenous Support Collective",
+                        "engagementLevel": 1,
+                        "members": ["Claudia"]
+                    }
+                ],
+                "marker-color": "#f86767",
+                "marker-size": "large",
+                "marker-symbol": "star"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.493628,
+                    29.424122
+                ]
+            },
+            "properties": {
+                "title": "San Antonio, TX",
+                "organizations": [
+                    {
+                        "name": "Unite Here",
+                        "engagementLevel": 1,
+                        "members": ["Stephanie"]
+                    }
+                ],
+                "marker-color": "#f86767",
+                "marker-size": "large",
+                "marker-symbol": "star"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.045754,
+                    42.331427
+                ]
+            },
+            "properties": {
+                "title": "Detroit, MI",
+                "organizations": [
+                    {
+                        "name": "New Era Detroit",
+                        "engagementLevel": 2,
+                        "members": ["Rahiel"]
+                    }
+                ],
+                "marker-color": "#f86767",
+                "marker-size": "large",
+                "marker-symbol": "star"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.578567,
+                    39.099727
+                ]
+            },
+            "properties": {
+                "title": "Kansas City, MO",
+                "organizations": [
+                    {
+                        "name": "Kansas Missouri DREAM Act",
+                        "engagementLevel": 2,
+                        "members": ["Kevin"]
+                    }
+                ],
+                "marker-color": "#f86767",
+                "marker-size": "large",
+                "marker-symbol": "star"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.796988,
+                    32.776664
+                ]
+            },
+            "properties": {
+                "title": "Dallas, TX",
+                "organizations": [
+                    {
+                        "name": "Dallas North Texas DREAM Team",
+                        "engagementLevel": 1,
+                        "members": ["Kevin"]
+                    }
+                ],
+                "marker-color": "#f86767",
+                "marker-size": "large",
+                "marker-symbol": "star"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -102.556274,
+                    43.025541
+                ]
+            },
+            "properties": {
+                "title": "Pine Ridge, SD",
+                "organizations": [
+                    {
+                        "name": "National Indigenous Youth Alliance South Dakota",
+                        "engagementLevel": 1,
+                        "members": ["Felipe"]
+                    }
+                ],
+                "marker-color": "#f86767",
+                "marker-size": "large",
+                "marker-symbol": "star"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.165222,
+                    39.952584
+                ]
+            },
+            "properties": {
+                "title": "Philadelphia, PA",
+                "organizations": [
+                    {
+                        "name": "Youth United for Change",
+                        "engagementLevel": 2,
+                        "members": ["Idalin"]
+                    },
+                    {
+                        "name": "Philadelphia Student Union",
+                        "engagementLevel": 1,
+                        "members": ["Claudia"]
+                    }
+                ],
+                "marker-color": "#f86767",
+                "marker-size": "large",
+                "marker-symbol": "star"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.612189,
+                    39.290385
+                ]
+            },
+            "properties": {
+                "title": "Baltimore, MD",
+                "organizations": [
+                    {
+                        "name": "Leaders for a beautiful struggle",
+                        "engagementLevel": 2,
+                        "members": ["Rahiel"]
+                    }
+                ],
+                "marker-color": "#f86767",
+                "marker-size": "large",
+                "marker-symbol": "star"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.05888,
+                    42.360082
+                ]
+            },
+            "properties": {
+                "title": "Boston, MA",
+                "organizations": [
+                    {
+                        "name": "Student Immigrant Movement",
+                        "engagementLevel": 1,
+                        "members": ["Kevin"]
+                    }
+                ],
+                "marker-color": "#f86767",
+                "marker-size": "large",
+                "marker-symbol": "star"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.685093,
+                    41.763711
+                ]
+            },
+            "properties": {
+                "title": "Hartford, CT",
+                "organizations": [
+                    {
+                        "name": "Connecticut Students for a Dream",
+                        "engagementLevel": 1,
+                        "members": ["Kevin"]
+                    }
+                ],
+                "marker-color": "#f86767",
+                "marker-size": "large",
+                "marker-symbol": "star"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.19179,
+                    25.76168
+                ]
+            },
+            "properties": {
+                "title": "Miami, FL",
+                "organizations": [
+                    {
+                        "name": "Florida Immigrant Coalition",
+                        "engagementLevel": 1,
+                        "members": ["Kevin"]
+                    },
+                    {
+                        "name": "Miami Worker Center",
+                        "engagementLevel": 1,
+                        "members": ["Felipe"]
+                    },
+                    {
+                        "name": "SEIU Southeast",
+                        "engagementLevel": 1,
+                        "members": ["Felipe"]
+                    },
+                    {
+                        "name": "Dream Defenders",
+                        "engagementLevel": 1,
+                        "members": ["Felipe"]
+                    }
+                ],
+                "marker-color": "#f86767",
+                "marker-size": "large",
+                "marker-symbol": "star"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.532215,
+                    28.693408
+                ]
+            },
+            "properties": {
+                "title": "Apopka, FL",
+                "organizations": [
+                    {
+                        "name": "Farmworker Association of Florida",
+                        "engagementLevel": 1,
+                        "members": ["Felipe"]
+                    },
+                    {
+                        "name": "Hope Community Center",
+                        "engagementLevel": 1,
+                        "members": ["Felipe"]
+                    }
+                ],
+                "marker-color": "#f86767",
+                "marker-size": "large",
+                "marker-symbol": "star"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.379236,
+                    28.538335
+                ]
+            },
+            "properties": {
+                "title": "Orlando, FL",
+                "organizations": [
+                    {
+                        "name": "QLatinx",
+                        "engagementLevel": 1,
+                        "members": ["Felipe"]
+                    }
+                ],
+                "marker-color": "#f86767",
+                "marker-size": "large",
+                "marker-symbol": "star"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.457178,
+                    27.950575
+                ]
+            },
+            "properties": {
+                "title": "Tampa, FL",
+                "organizations": [
+                    {
+                        "name": "LULAC",
+                        "engagementLevel": 1,
+                        "members": ["Felipe"]
+                    }
+                ],
+                "marker-color": "#f86767",
+                "marker-size": "large",
+                "marker-symbol": "star"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.898619,
+                    35.994033
+                ]
+            },
+            "properties": {
+                "title": "Durham, NC",
+                "organizations": [
+                    {
+                        "name": "Southern on New Ground",
+                        "engagementLevel": 1,
+                        "members": ["Felipe"]
+                    }
+                ],
+                "marker-color": "#f86767",
+                "marker-size": "large",
+                "marker-symbol": "star"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.781602,
+                    36.162664
+                ]
+            },
+            "properties": {
+                "title": "Nashville, TN",
+                "organizations": [
+                    {
+                        "name": "Southeast Immigrant Rights Network",
+                        "engagementLevel": 1,
+                        "members": ["Felipe"]
+                    },
+                    {
+                        "name": "Tennessee Immigrant and Refugee Coalition",
+                        "engagementLevel": 2,
+                        "members": ["Felipe"]
+                    }
+                ],
+                "marker-color": "#f86767",
+                "marker-size": "large",
+                "marker-symbol": "star"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.80249,
+                    33.520661
+                ]
+            },
+            "properties": {
+                "title": "Birmingham, AL",
+                "organizations": [
+                    {
+                        "name": "Alabama Coalition for Immigrant Justice",
+                        "engagementLevel": 1,
+                        "members": ["Felipe"]
+                    }
+                ],
+                "marker-color": "#f86767",
+                "marker-size": "large",
+                "marker-symbol": "star"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.387982,
+                    33.748995
+                ]
+            },
+            "properties": {
+                "title": "Atlanta, GA",
+                "organizations": [
+                    {
+                        "name": "Georgia Latino Alliance for Human Rights",
+                        "engagementLevel": 1,
+                        "members": ["Felipe"]
+                    }
+                ],
+                "marker-color": "#f86767",
+                "marker-size": "large",
+                "marker-symbol": "star"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.094209,
+                    26.934225
+                ]
+            },
+            "properties": {
+                "title": "Jupitor, FL",
+                "organizations": [
+                    {
+                        "name": "El Sol",
+                        "engagementLevel": 1,
+                        "members": ["Felipe"]
+                    }
+                ],
+                "marker-color": "#f86767",
+                "marker-size": "large",
+                "marker-symbol": "star"
+            }
         }
     ]
 };
