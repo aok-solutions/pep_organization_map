@@ -242,6 +242,129 @@ var geojson = {
                 "marker-size": "large",
                 "marker-symbol": "star"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.243685,
+                    34.052234
+                ]
+            },
+            "properties": {
+                "title": "Los Angeles, CA",
+                "organizations": [
+                    {
+                        "name": "Affirm National",
+                        "engagementLevel": 1,
+                        "members": ["Claudia"]
+                    },
+                    {
+                        "name": "NDLON",
+                        "engagementLevel": 2,
+                        "members": ["Felipe"]
+                    },
+                    {
+                        "name": "Gabriela USA",
+                        "engagementLevel": 1,
+                        "members": ["Claudia"]
+                    },
+                    {
+                        "name": "Unite Here - Local 11",
+                        "engagementLevel": 1,
+                        "members": []
+                    },
+                    {
+                        "name": "ACCE",
+                        "engagementLevel": 1,
+                        "members": ["Stephanie"]
+                    },
+                    {
+                        "name": "Union de Vecinos",
+                        "engagementLevel": 2,
+                        "members": ["Stephanie"]
+                    },
+                    {
+                        "name": "Youth Justice Coalitions",
+                        "engagementLevel": 3,
+                        "members": ["Stephanie"]
+                    },
+                    {
+                        "name": "PYFC",
+                        "engagementLevel": 1,
+                        "members": ["Rahiel"]
+                    },
+                    {
+                        "name": "Uplift Inglewood",
+                        "engagementLevel": 2,
+                        "members": ["Stephanie"]
+                    },
+                    {
+                        "name": "LA Tenants Union",
+                        "engagementLevel": 3,
+                        "members": ["Stephanie"]
+                    },
+                    {
+                        "name": "Crenshaw Subway Coalition",
+                        "engagementLevel": 2,
+                        "members": ["Stephanie"]
+                    },
+                    {
+                        "name": "Teamsters Port of LA",
+                        "engagementLevel": 2,
+                        "members": ["Stephanie"]
+                    },
+                    {
+                        "name": "Fight for $15",
+                        "engagementLevel": 2,
+                        "members": ["Stephanie"]
+                    },
+                    {
+                        "name": "Our Walmart",
+                        "engagementLevel": 2,
+                        "members": ["Stephanie"]
+                    },
+                    {
+                        "name": "Domestic Worker",
+                        "engagementLevel": 3,
+                        "members": ["Stephanie"]
+                    },
+                    {
+                        "name": "UCLA Labor Center",
+                        "engagementLevel": 1,
+                        "members": ["Stephanie"]
+                    },
+                    {
+                        "name": "COIL/ SLAD School teachers organizing within the teacher's union",
+                        "engagementLevel": 3,
+                        "members": ["Stephanie"]
+                    },
+                    {
+                        "name": "United Teachers",
+                        "engagementLevel": 3,
+                        "members": ["Stephanie"]
+                    },
+                    {
+                        "name": "Communication Workers of America",
+                        "engagementLevel": 1,
+                        "members": ["Stephanie"]
+                    },
+                    {
+                        "name": "California Latinas for Reproductive Justice",
+                        "engagementLevel": 1,
+                        "members": ["Claudia"]
+                    },
+                    {
+                        "name": "Ella Baker Center",
+                        "engagementLevel": 1,
+                        "members": ["Rahiel"]
+                    }
+                ],
+                "marker-color": "#f86767",
+                "marker-size": "large",
+                "marker-symbol": "star"
+            }
         }
     ]
 };
