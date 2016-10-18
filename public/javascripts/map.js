@@ -1169,10 +1169,10 @@ myLayer.on('click',function(e) {
     var list = '';
     for(var i = 0; i < feature.properties.organizations.length; i++){
         var org = feature.properties.organizations[i];
-        var div = '<li class="list-group-item">'+ org.name + ' <span class="badge">' + org.engagementLevel + '</span></li>';
+        var div = '<tr><td>'+ org.name + '</td><td>'+ org.members +'</td><td><span class="badge">' + org.engagementLevel + '</span></td></tr>';
         list += div;
     }
-    var content = '<div class="panel panel-default"><div class="panel-heading"><strong>' + feature.properties.title + '</strong></div><ul class="list-group">' + list +'</ul></div>';
+    var content = '<div class="panel panel-default"><div class="panel-heading"><strong>' + feature.properties.title + '</strong></div><table class="table"><tbody>' + list +'</tbody></table></div>';
 
 
     info.innerHTML = content;
